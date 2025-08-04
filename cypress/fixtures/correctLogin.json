@@ -1,0 +1,7 @@
+[
+    {
+        "description": "correct username, correct password",
+        "username": "standard_user",
+        "password": "secret_sauce"
+    }
+]

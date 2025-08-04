@@ -1,0 +1,20 @@
+[
+   {
+        "description": "wrong username, wrong password",
+        "username": "xxl",
+        "password": "xxl",
+        "errorMsg": "Epic sadface: Username and password do not match any user in this service"
+    },
+    {
+        "description": "correct username, wrong password",
+        "username": "standard_user",
+        "password": "xx1",
+        "errorMsg": "Epic sadface: Username and password do not match any user in this service"
+    },
+    {
+        "description": "wrong username, correct password",
+        "username": "xxl",
+        "password": "secret_sauce",
+        "errorMsg": "Epic sadface: Username and password do not match any user in this service"
+    }
+]
